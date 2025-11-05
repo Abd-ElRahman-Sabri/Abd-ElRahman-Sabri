@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="Purple Wave" width="100%" height="120">
+</p>
+
 ### 🛠️ Tech Stack
 💾 Databases: PostgreSQL, MySQL, SQLite  
 ⚙️ Tools: Pentaho, pgAdmin, DBeaver  
