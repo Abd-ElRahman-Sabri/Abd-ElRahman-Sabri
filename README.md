@@ -27,13 +27,6 @@
 ![banner](https://raw.githubusercontent.com/Abd-El-Rahman-Sabri/Abd-El-Rahman-Sabri/main/banner.gif)
 
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abd-ElRahman-Sabri&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-ElRahman-Sabri&layout=compact&theme=tokyonight)
-
----
-
 ### 💬 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abd--El--Rahman--Sabri-blue)](https://www.linkedin.com/in/abd-el-rahman-sabri/)
 [![Gmail](https://img.shields.io/badge/Email-abdelrahman.sabri01%40gmail.com-red)](mailto:abdelrahman.sabri01@gmail.com)
