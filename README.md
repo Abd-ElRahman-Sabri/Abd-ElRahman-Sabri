@@ -15,6 +15,14 @@
 
 ---
 
+![OS](https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu)
+![Editor](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code)
+![Tool](https://img.shields.io/badge/ETL-Pentaho-brightgreen)
+
+
+![banner](https://raw.githubusercontent.com/Abd-El-Rahman-Sabri/Abd-El-Rahman-Sabri/main/banner.gif)
+
+
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abd-ElRahman-Sabri&show_icons=true&theme=tokyonight)
 
