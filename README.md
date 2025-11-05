@@ -15,9 +15,13 @@
 
 ---
 
-![OS](https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![SQL](https://img.shields.io/badge/SQL-ligthblue?logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-lightblue?logo=postgresql)
+![Snowflake](https://img.shields.io/badge/Snowflake-1984FF?logo=snowflake&style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Airflow-0173B2?logo=apache-airflow&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu)
+
 ![Editor](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code)
 ![Tool](https://img.shields.io/badge/ETL-Pentaho-brightgreen)
 
