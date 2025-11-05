@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Abd El Rahman Sabri
+### 🚀 Data Engineer | PostgreSQL | Pentaho | Python | ETL Enthusiast
 
-<!--
-**Abd-ElRahman-Sabri/Abd-ElRahman-Sabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Passionate about building robust Data Pipelines, Data Warehouses, and analytical systems.  
+🎓 Computer Engineering Graduate focused on Data Engineering.  
+🌱 Currently learning: Advanced Data Modeling, Apache Airflow, and CI/CD for ETL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+💾 Databases: PostgreSQL, MySQL, SQLite  
+⚙️ Tools: Pentaho, pgAdmin, DBeaver  
+🐍 Languages: Python, SQL  
+📊 Data: Pandas, NumPy, Matplotlib  
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abd-El-Rahman-Sabri&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-El-Rahman-Sabri&layout=compact&theme=tokyonight)
+
+---
+
+### 💬 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abd--El--Rahman--Sabri-blue)](https://www.linkedin.com/in/abd-el-rahman-sabri/)
+[![Gmail](https://img.shields.io/badge/Email-abdelrahman.sabri01%40gmail.com-red)](mailto:abdelrahman.sabri01@gmail.com)
