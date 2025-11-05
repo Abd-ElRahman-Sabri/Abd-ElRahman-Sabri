@@ -29,7 +29,7 @@
 
 ![snake gif](https://github.com/Abd-El-Rahman-Sabri/Abd-El-Rahman-Sabri/blob/output/snake.svg)
 
-![workspace](https://raw.githubusercontent.com/CelaDaniel/CelaDaniel/main/workspace.gif)
+![banner](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)
 
 ### 💬 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abd--El--Rahman--Sabri-blue)](https://www.linkedin.com/in/abd-el-rahman-sabri/)
