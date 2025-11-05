@@ -14,16 +14,14 @@
 📊 Data: Pandas, NumPy, Matplotlib  
 
 ---
-
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![SQL](https://img.shields.io/badge/SQL-lightblue?logo=postgresql)
-![Snowflake](https://img.shields.io/badge/Snowflake-1984FF?logo=snowflake&style=for-the-badge)
-![Airflow](https://img.shields.io/badge/Airflow-0173B2?logo=apache-airflow&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge)
-![OS](https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu)
-
-![Editor](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code)
-![Tool](https://img.shields.io/badge/ETL-Pentaho-brightgreen)
+![OS](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&style=for-the-badge)
+![Editor](https://img.shields.io/badge/Editor-VSCode-0078D7?logo=visual-studio-code&style=for-the-badge)
+![Tool](https://img.shields.io/badge/ETL-Pentaho-5A0FC8?logo=pentaho&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge)
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white&style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Airflow-0173B2?logo=apache-airflow&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 
 ![banner](https://raw.githubusercontent.com/Abd-El-Rahman-Sabri/Abd-El-Rahman-Sabri/main/banner.gif)
