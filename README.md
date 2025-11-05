@@ -16,8 +16,8 @@
 ---
 
 ![OS](https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu)
-![Python](https://img.shields.io/badge/OS-Ubuntu-yellow?logo=python)
-![Sql](https://img.shields.io/badge/OS-Ubuntu-blue?logo=Sql)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![SQL](https://img.shields.io/badge/SQL-ligthblue?logo=postgresql)
 ![Editor](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code)
 ![Tool](https://img.shields.io/badge/ETL-Pentaho-brightgreen)
 
