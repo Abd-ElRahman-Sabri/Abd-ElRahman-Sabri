@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=System.out.print(%22Hello+World!%22);Data+Engineer+🚀;ETL+Pipeline+Master+🔄;SQL+Query+Magician+🧙‍♂️;Building+Scalable+Data+Warehouses+🏗️" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=System.out.print(%22Hello+World!%22);Data+Engineer+🚀;ETL+Pipeline+Master+🔄;SQL+Query+Magician+🧙‍♂️;Building+Scalable+Data+Warehouses+🏗️" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -41,17 +43,21 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abd-ElRahman-Sabri&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abd-ElRahman-Sabri&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-ElRahman-Sabri&layout=compact&theme=tokyonight&hide_border=true" height="180" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=Abd-ElRahman-Sabri&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abd-ElRahman-Sabri&theme=tokyonight&hide_border=true" />
 </div>
 
 <br />
 
 <div align="center">
   <h3>🐍 Contribution Activity</h3>
-  <img src="https://github.com/Abd-ElRahman-Sabri/Abd-ElRahman-Sabri/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Abd-ElRahman-Sabri/Abd-ElRahman-Sabri/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Abd-ElRahman-Sabri/Abd-ElRahman-Sabri/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Abd-ElRahman-Sabri/Abd-ElRahman-Sabri/raw/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br />
