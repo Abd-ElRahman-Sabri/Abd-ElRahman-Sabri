@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abd%20El-Rahman%20Sabri&fontSize=70&fontAlignY=35&desc=Data%20Engineer%20%7C%20PostgreSQL%20%7C%20Pentaho%20%7C%20Python&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abd%20El-Rahman%20Sabri&fontSize=70&fontAlignY=30&desc=Turning%20Coffee%20Into%20Data%20Pipelines%20☕➡️💾&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
   <br />
   <h3>👨‍💻 About Me</h3>
   <p>
@@ -24,17 +24,18 @@
     <img src="https://skillicons.dev/icons?i=python,postgres,mysql,linux,docker,git,bash,vscode,github,ubuntu&theme=dark" />
   </a>
   <br /><br />
-  <img src="https://img.shields.io/badge/Pentaho-000000?style=for-the-badge&logo=hitachi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-0173B2?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentaho-Data_Integration-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-Orchestration-0173B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Snowflake-Data_Cloud-29B5E8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBeaver-SQL_Client-382923?style=for-the-badge" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abd-ElRahman-Sabri&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-ElRahman-Sabri&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://img.shields.io/badge/Code_Time-Enthusiast-blueviolet?style=for-the-badge&logo=clock" />
+  <img src="https://img.shields.io/badge/Repositories-Active-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Main_Language-Python_&_SQL-yellow?style=for-the-badge&logo=python" />
 </div>
 
 <br />
