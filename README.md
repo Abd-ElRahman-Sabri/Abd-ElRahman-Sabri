@@ -1,15 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abd%20El-Rahman%20Sabri&fontSize=70&fontAlignY=35&desc=Turning%20Coffee%20Into%20Data%20Pipelines&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=System.out.print(%22Hello+World!%22);Data+Engineer+🚀;ETL+Pipeline+Master+🔄;SQL+Query+Magician+🧙‍♂️;Building+Scalable+Data+Warehouses+🏗️" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abd-ElRahman-Sabri&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abd%20El-Rahman%20Sabri&fontSize=70&fontAlignY=35&desc=Data%20Engineer%20%7C%20PostgreSQL%20%7C%20Pentaho%20%7C%20Python&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" />
 </div>
 
 <br />
@@ -29,7 +19,7 @@
 <br />
 
 <div align="center">
-  <h3>🛠️ My Tech Arsenal</h3>
+  <h3>🛠️ My Tech Stack</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,postgres,mysql,linux,docker,git,bash,vscode,github,ubuntu&theme=dark" />
   </a>
@@ -43,10 +33,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abd-ElRahman-Sabri&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abd-ElRahman-Sabri&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-ElRahman-Sabri&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abd-ElRahman-Sabri&theme=tokyonight&hide_border=true" />
 </div>
 
 <br />
