@@ -44,14 +44,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abd-ElRahman-Sabri&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-ElRahman-Sabri&layout=compact&theme=tokyonight&hide_border=true" height="180" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abd-ElRahman-Sabri&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Abd-ElRahman-Sabri&theme=tokyonight&hide_border=true" />
 </div>
 
 <br />
 
 <div align="center">
   <h3>🐍 Contribution Activity</h3>
-  <img src="https://github.com/Abd-ElRahman-Sabri/Abd-ElRahman-Sabri/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+  <img src="https://github.com/Abd-ElRahman-Sabri/Abd-ElRahman-Sabri/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
 
 <br />
