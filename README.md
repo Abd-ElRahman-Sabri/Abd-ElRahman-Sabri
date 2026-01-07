@@ -37,10 +37,9 @@
   <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="100%" alt="animated banner"/>
 </p>
 
-<p align="center">
-  <!-- snake البنفسجي -->
-  <img src="https://github.com/Abd-El-Rahman-Sabri/Abd-El-Rahman-Sabri/blob/output/snake.svg" alt="Snake animation"/>
-</p>
+<div align="center">
+  <img src="https://github.com/Abd-ElRahman-Sabri/Abd-ElRahman-Sabri/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+</div>
 
 ---
 
